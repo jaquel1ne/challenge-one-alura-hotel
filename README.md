@@ -24,3 +24,6 @@
 ##### No desafio foi solicitado criar o registro de usuário, nova reserva vinculada ao registro do hóspede, buscar por sobrenome do hóspede e numero da reserva, além de editar e deletar.
 
 Vídeo
+
+https://github.com/jaquel1ne/challenge-one-alura-hotel/assets/115118167/6dbf5ef7-69ba-40cd-81d1-0be53c16e27e
+
