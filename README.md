@@ -25,5 +25,4 @@
 
 Vídeo
 
-https://github.com/jaquel1ne/challenge-one-alura-hotel/assets/115118167/6dbf5ef7-69ba-40cd-81d1-0be53c16e27e
 
